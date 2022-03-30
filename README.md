@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=ffcfff&height=300&section=header&text=Hello%20World!&fontColor=d6ace6&fontSize=90" />
 
-i'm wangjinhoon
+i'm jinhoon wang
 
 Studying : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-ff7f00?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
