@@ -2,7 +2,7 @@
 
 안녕하세요!  
 저는 딥러닝, 컴퓨터비전, 센서퓨전 관련 개발자가 되고 싶은 왕진훈 입니다.  
-밑의 고정된 리포지토리는 이와 관련된 프로젝트 입니다.
+밑의 고정된 리포지토리는 이와 관련된 참여한 프로젝트 입니다.
 
 기술 스택 : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-ff7f00?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
 
