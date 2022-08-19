@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=ffcfff&height=300&section=header&text=Hello%20World!&fontColor=d6ace6&fontSize=90" />
-
 Hi, my fields of interest are deep learning, computer vision, and sensor fusion.
 
 Pinned Repositories are related participating projects.
