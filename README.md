@@ -1,9 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=ffcfff&height=300&section=header&text=Hello%20World!&fontColor=d6ace6&fontSize=90" />
 
-안녕하세요, 제 관심 분야는 딥러닝, 컴퓨터비전, 센서퓨전 입니다.
+Hi, my fields of interest are deep learning, computer vision, and sensor fusion.
 
-밑의 고정된 리포지토리는 이와 관련된 참여한 프로젝트 입니다.
-
+Pinned Repositories are related participating projects.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangjinhoon&show_icons=true&theme=radical)
 
